@@ -5,6 +5,6 @@ function shoeStuff () {
 }
 
 function yearStuff () {
-    return ((shoeStuff() - year) + 1776)
+    return ((shoeStuff() - year) + 1766)
 }
 alert (yearStuff())
