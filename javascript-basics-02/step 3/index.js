@@ -6,5 +6,3 @@ function showValue(e){
     document.getElementById('container').innerHTML = name;
     e.preventDefault();
 }
-
-// return showValue();
